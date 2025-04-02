@@ -18,9 +18,9 @@ OneSignal: For sending push notifications.
 
 These services may process minimal data, such as device identifiers, to operate effectively. However, we do not collect or store any personal information through these services. We encourage you to review their privacy policies for more information:
 
-Supabase Privacy Policy
+Supabase Privacy Policy - https://supabase.com/privacy
 
-OneSignal Privacy Policy
+OneSignal Privacy Policy - https://onesignal.com/privacy_policy
 
 Data Security
 We take your security seriously and implement measures to ensure that our App remains safe. As we do not collect or store personal data, there are no security risks related to personal information on our end.
